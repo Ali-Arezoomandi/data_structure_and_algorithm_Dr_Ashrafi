@@ -1,5 +1,3 @@
-package recursive.problem7;
-
 public class Problem7 {
     
     public static int gcd(int a, int b){

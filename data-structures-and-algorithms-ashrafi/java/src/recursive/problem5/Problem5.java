@@ -1,5 +1,3 @@
-package recursive.problem5;
-
 public class Problem5 {
 
     // Method 1

@@ -1,5 +1,3 @@
-package recursive.problem8;
-
 public class Problem8 {
     
     public static void printTruthTable(int n, String s){

@@ -1,5 +1,3 @@
-package recursive.problem10;
-
 public class Problem10 {
     
     public static double sumOfFactorials(int n, double s, int i){

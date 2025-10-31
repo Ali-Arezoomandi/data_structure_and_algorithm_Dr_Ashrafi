@@ -1,5 +1,3 @@
-package recursive.problem6;
-
 public class Problem6 {
     
     public static int multiply(int a, int b){
